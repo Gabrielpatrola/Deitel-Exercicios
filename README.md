@@ -2,7 +2,7 @@
 
 Resolução de alguns exercícios do livro "Java como programar" do Deitel e também outros exercícios de Programação Orientada a Objetos.
 
-## Exercicio 04
+## Exercicio 04 (Feito)
 > Crie um programa que mostre o resultado da Figura abaixo.
 > ![Imagem do exercício 04!](asset.png "exercício 04")
 
