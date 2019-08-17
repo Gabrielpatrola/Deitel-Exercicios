@@ -4,6 +4,7 @@ Resolução de alguns exercicios do livro "Java como programar" do Deitel.
 
 > # Exercicio 04
 > Crie um programa que mostre o resultado da Figura abaixo.
+> ![Imagem do exericio 04!](asset.png "exericio 04")
 > <img>https://raw.githubusercontent.com/Gabrielpatrola/Deitel-Exercicios/master/asset.png</img>
 
 
