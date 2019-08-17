@@ -2,13 +2,13 @@
 
 Resolução de alguns exercicios do livro "Java como programar" do Deitel.
 
-> # Exercicio 04
+## Exercicio 04
 > Crie um programa que mostre o resultado da Figura abaixo.
 > ![Imagem do exericio 04!](asset.png "exericio 04")
-> <img>https://raw.githubusercontent.com/Gabrielpatrola/Deitel-Exercicios/master/asset.png</img>
 
 
-> # Exercicio 05
+
+## Exercicio 05
 > Crie uma classe chamada Ingresso que possuium valor em reais e um método imprimeValor().
 > - a) Crie uma classe VIP, que herda Ingresso e possui um valor adicional. Crie um método que retorne o valor do ingresso VIP (com o   adicional incluído).
 > - b) Crie uma classe Normal, que herda Ingresso e possui um método que imprime: "Ingresso Normal".
