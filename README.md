@@ -17,8 +17,8 @@ Resolução de alguns exercícios do livro "Java como programar" do Deitel e tam
 ## Exercício 06
 > Crie um programa que: 
 > - Crie uma classe Produto
->   - i. Tenha como atributos : comprimento, largura e altura.
->   - ii. Tenha um método para descrever o Produto.
+>   - Tenha como atributos : comprimento, largura e altura.
+>   - Tenha um método para descrever o Produto.
 > - Crie uma classe Mesa que herde os atributos e métodos da classe Produto
 >   - Sobrescreva o método para descrever o produto.
 >   - Crie um método para informar se o produto foi vendido ou não.
