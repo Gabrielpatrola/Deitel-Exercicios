@@ -2,6 +2,10 @@
 
 Resolução de alguns exercicios do livro "Java como programar" do Deitel.
 
+> # Exercicio 04
+> Crie um programa que mostre o resultado da Figura abaixo.
+> <img>https://raw.githubusercontent.com/Gabrielpatrola/Deitel-Exercicios/master/asset.png</img>
+
 
 > # Exercicio 05
 > Crie uma classe chamada Ingresso que possuium valor em reais e um método imprimeValor().
