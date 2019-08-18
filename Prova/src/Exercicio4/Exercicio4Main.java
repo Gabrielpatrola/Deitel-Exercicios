@@ -1,15 +1,15 @@
-/*
+ /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GradeBook;
+package Exercicio4;
 
 /**
  *
  * @author Horus
  */
-public class GradeBookTest {
+public class Exercicio4Main {
 
     public static void main(String[] args) {
         int[][] gradesArray = {{87, 96, 70},
@@ -23,7 +23,7 @@ public class GradeBookTest {
         {76, 72, 84},
         {87, 93, 73}};
 
-        GradeBook myGradeBook = new GradeBook(
+        Exercicio4 myGradeBook = new Exercicio4(
                 "CS101 Introduction to Java programming", gradesArray);
         myGradeBook.displayMessage();
         myGradeBook.processGrades();

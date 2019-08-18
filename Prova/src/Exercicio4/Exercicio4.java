@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GradeBook;
+package Exercicio4;
 
 /**
  *
  * @author Horus
  */
-public class GradeBook {
+public class Exercicio4 {
 
     private String courseName;
     private int[][] grades;
 
     // constructor
-    public GradeBook(String courseName, int[][] grades) {
+    public Exercicio4(String courseName, int[][] grades) {
         setCourseName(courseName);
         this.grades = grades;
     }
