@@ -14,7 +14,7 @@ Resolução de alguns exercícios do livro "Java como programar" do Deitel e tam
 > - b) Crie uma classe Normal, que herda Ingresso e possui um método que imprime: "Ingresso Normal".
 > - c) Crie uma classe CamaroteInferior (que possui a localização do ingresso e métodos para acessar imprimir esta localização) e uma classe CamaroteSuperior, que é mais cara (possui valor adicional). Esta última possui um método para retornar o valor do ingresso. Ambas as classes herdam a classe VIP.
 
-## Exercício 06
+## Exercício 06 (Feito)
 > Crie um programa que: 
 > - Crie uma classe Produto
 >   - Tenha como atributos : comprimento, largura e altura.
