@@ -12,9 +12,10 @@ package Exercicio6;
 public class Teste {
 
     public static void main(String[] args) {
-//        Produto exemplo = new Produto(1, 2, 3);
-        Mesa exemplo = new Mesa("Vendido", 1, 2, 3);
+        Produto produto = new Produto("Teste", 1, 2, 3);
+        Mesa exemplo = new Mesa("Descrição do produto", "Vendido", 1, 2, 3);
 
+        produto.descreve_produto();
         exemplo.descreve_produto();
     }
 
