@@ -26,6 +26,7 @@ public class Mesa extends Produto {
         return status;
     }
 
+    @Override
     public void descreve_produto() {
         System.out.println("O Mesa tem as seguintes dimensões:");
         System.out.println("Comprimento: " + getComprimento());
